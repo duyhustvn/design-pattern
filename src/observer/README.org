@@ -1,0 +1,3 @@
+* Weather Station
+** Class Diagram
+[[file:design/weather_data.png]]
